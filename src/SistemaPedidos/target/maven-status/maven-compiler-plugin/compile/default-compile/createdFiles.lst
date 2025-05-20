@@ -1,0 +1,10 @@
+SistemaPedidos/modelo/Producto$Tamano.class
+SistemaPedidos/modulos/ModuloGestionPedidos.class
+SistemaPedidos/modelo/Producto$Categoria.class
+SistemaPedidos/modelo/ItemPedido.class
+SistemaPedidos/modelo/Producto.class
+SistemaPedidos/modulos/ModuloInventario.class
+SistemaPedidos/modelo/Pedido.class
+SistemaPedidos/modelo/SistemaGestionPedidos.class
+SistemaPedidos/modelo/Pedido$EstadoPedido.class
+SistemaPedidos/modulos/ModuloPagos.class
